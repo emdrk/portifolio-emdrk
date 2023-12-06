@@ -460,3 +460,19 @@ iframe {
     width: 30px;
     height: 30px;
 }
+
+/* Estilos para a mensagem de desenvolvimento */
+.development-message {
+    background-color: #FFD700; 
+    color: #000; /* Cor do texto preta */
+    padding: 7px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Arial';
+    font-size: 13px;
+}
+
+.development-message p {
+    margin: 0;
+}
+
